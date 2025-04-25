@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/react-website-portfolio/static/css/main.87d5ebbe.css",
-    "main.js": "/react-website-portfolio/static/js/main.c56312de.js",
+    "main.css": "/react-website-portfolio/static/css/main.9965387c.css",
+    "main.js": "/react-website-portfolio/static/js/main.0939c6bb.js",
+    "static/media/video-5.mp4": "/react-website-portfolio/static/media/video-5.e53e21e68716e81b35e0.mp4",
+    "static/media/NASA2.jpeg": "/react-website-portfolio/static/media/NASA2.c49b5a84b6fad7ed2433.jpeg",
+    "static/media/NASA_Report.pdf": "/react-website-portfolio/static/media/NASA_Report.8261c86f68520c087092.pdf",
+    "static/media/NASA1.jpeg": "/react-website-portfolio/static/media/NASA1.16ed71cbca1ac895a9a7.jpeg",
     "static/media/img-1.jpg": "/react-website-portfolio/static/media/img-1.53f4843759ebec256cb9.jpg",
     "static/media/img-12.webp": "/react-website-portfolio/static/media/img-12.352271adc8ed4386f2a7.webp",
     "static/media/img-14.jpg": "/react-website-portfolio/static/media/img-14.cf10436248dbf93e938f.jpg",
     "static/media/img-10.jpg": "/react-website-portfolio/static/media/img-10.5cce53173d60e39c5408.jpg",
     "index.html": "/react-website-portfolio/index.html",
-    "main.87d5ebbe.css.map": "/react-website-portfolio/static/css/main.87d5ebbe.css.map",
-    "main.c56312de.js.map": "/react-website-portfolio/static/js/main.c56312de.js.map"
+    "main.9965387c.css.map": "/react-website-portfolio/static/css/main.9965387c.css.map",
+    "main.0939c6bb.js.map": "/react-website-portfolio/static/js/main.0939c6bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.87d5ebbe.css",
-    "static/js/main.c56312de.js"
+    "static/css/main.9965387c.css",
+    "static/js/main.0939c6bb.js"
   ]
 }
