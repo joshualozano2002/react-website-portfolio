@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-website-portfolio/static/css/main.9965387c.css",
+    "main.css": "/react-website-portfolio/static/css/main.9a8dcdb3.css",
     "main.js": "/react-website-portfolio/static/js/main.0939c6bb.js",
     "static/media/video-5.mp4": "/react-website-portfolio/static/media/video-5.e53e21e68716e81b35e0.mp4",
     "static/media/NASA2.jpeg": "/react-website-portfolio/static/media/NASA2.c49b5a84b6fad7ed2433.jpeg",
@@ -11,11 +11,11 @@
     "static/media/img-14.jpg": "/react-website-portfolio/static/media/img-14.cf10436248dbf93e938f.jpg",
     "static/media/img-10.jpg": "/react-website-portfolio/static/media/img-10.5cce53173d60e39c5408.jpg",
     "index.html": "/react-website-portfolio/index.html",
-    "main.9965387c.css.map": "/react-website-portfolio/static/css/main.9965387c.css.map",
+    "main.9a8dcdb3.css.map": "/react-website-portfolio/static/css/main.9a8dcdb3.css.map",
     "main.0939c6bb.js.map": "/react-website-portfolio/static/js/main.0939c6bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.9965387c.css",
+    "static/css/main.9a8dcdb3.css",
     "static/js/main.0939c6bb.js"
   ]
 }
